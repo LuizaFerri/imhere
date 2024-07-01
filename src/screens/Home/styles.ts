@@ -42,5 +42,6 @@ export const styles = StyleSheet.create({
   containerForm:{
     width: '100%',
     flexDirection: 'row',
+    marginBottom: 34
   }
 })
